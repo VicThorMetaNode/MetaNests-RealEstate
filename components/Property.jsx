@@ -29,9 +29,15 @@ const Property = ({ property: { coverPhoto, price, rentFrequency, rooms, title, 
                 <Text fontSize="lg">${millify(price)}{rentFrequency && `/${rentFrequency}`} </Text>
             </Flex>
             <Box>
-                <Avatar size="xs" src={agency?.logo?.url}/>
+                <Avatar size="md" src={agency?.logo?.url}/>
             </Box>
         </Flex>
+        <Flex alignItems="center" p="1" justifyContent="space-between" w="250px" color='#718096' >
+            {rooms} <FaBed /> | {baths} <FaBath/> | {millify(area)} sqft <BsGridFill />
+        </Flex>
+        <Text>
+            {title.length > 30 ? `${title.substring(0, 30)}...` : title}
+        </Text>
     </Box>
     </Flex>
     </Link>
