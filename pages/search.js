@@ -9,9 +9,9 @@ import Property from '../components/Property'
 import { fetchApi, baseUrl } from '../services/fetchApi'
 import noresult from '../assets/img/noresult.svg'
 
-const search = ({ properties }) => {
-    const [searchFilters, setSearchFilters] = useState(false);
-    const router = useRouter();
+const Search = ({ properties }) => {
+  const [searchFilters, setSearchFilters] = useState(false);
+  const router = useRouter();
 
 
   return (
@@ -59,10 +59,10 @@ const search = ({ properties }) => {
             </Flex>
         ) }
     </Box>
-  )
-}
+  );
+};
 
-export default search
+
 
 //APi CALLS WITH A SPECIAL COMMAND MADE FOR NEXTjs : export async + return using Props
 export async function getServerSideProps({ query }) {
@@ -86,3 +86,4 @@ export async function getServerSideProps({ query }) {
     };
   }
  
+  export default Search
