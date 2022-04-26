@@ -1,10 +1,23 @@
-This website's been fully built with ***NextJS*** using **Babel**, **RapidApi**, **Chakra-ui**, **React-icons**, **Millify**, and more.
-> Note: this website is a *beta version* and will be upgraded over time until an ultimate version is reached. In the near future, the website will be using an APi of 'real' Metaverses' logs, houses, villas and more. Up to then, just pretend it is.
+# Next-RealEstate-Api
+This project's been fully built with ***NextJS***
+<p>🧰Tools used:</p>
+<p>🗹 Babel</p>
+<p>🗹 RapidApi</p>
+<p>🗹 Vercel</p>
+<p>🗹 Netlify</p>
+
+<p>📦NPM Packages used:</p>
+<p>✔️Chakra-Ui : refresh server every time a change is made</p>
+<p>✔️eMotion: create a logger middleware</p>
+<p>✔️Axios: parse incoming request bodies in a middleware before handlers</p>
+<p>✔️Framer-Motion: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
+<p>✔️Millify: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
+<p>✔️nProgress: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
+<p>✔️React-horizontal-scrolling-menu: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
+<p>✔️React-icons: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
+
+> Note: this project is a *beta version* and is update over time until an ultimate version is reached. In the near future, the project will be using an APi of 'real' Metaverse logs, houses, villas and more. Up to then, just pretend it is.
 Cheers !
-
-
-
-
 
 
 ![alt text](https://pbs.twimg.com/media/FFTZpEiWUAMMZjq.jpg:large)
