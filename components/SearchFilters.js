@@ -19,7 +19,10 @@ const SearchFilters = () => {
     const values = getFilterValues(filterValues);
 
     values.forEach((item) => {
+ //let's make sure we can select the info we want, not all of them at once w/ if statement && filterValues based on item names
+        if(item.value && filterValues?.[item.name]) {
         query[item.name] = item.value
+        }       
     })
 
     router.push({ pathname: path, query: query });
