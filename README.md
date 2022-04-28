@@ -17,7 +17,7 @@ This project's been fully built with ***NextJS***
 <p>✔️React-horizontal-scrolling-menu: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
 <p>✔️React-icons: a MongoDB object modeling tool designed to work in an asynchronous environment</p>
 
-> Note: this project is a *beta version* and is update over time until an ultimate version is reached. In the near future, the project will be using an APi of 'real' Metaverse logs, houses, villas and more. Up to then, just pretend it is.
+> Note: this project is a *beta version* and is updated over time until an ultimate version is reached. In the near future, the project will be using an APi of 'real' Metaverse logs, houses, villas and more. Up to then, just pretend it is.
 Cheers !
 
 
