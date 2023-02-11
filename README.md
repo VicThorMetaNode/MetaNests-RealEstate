@@ -1,8 +1,7 @@
-# Next-RealEstate-Api
+# REAL-ESTATE WEBSITE api
+RENTING SELLING REAL ESTATE  using **NEXTJS** - **CHAKRAUI** - **RAPIDAPI**
 > **Deployed**: **May 2022** : https://meta-nests.vercel.app/
-<p>This project's been fully built with ***NextJS***</p>
-
-
+![Screenshot 2022-04-25 210159](https://user-images.githubusercontent.com/98230162/218258543-149506fe-39cc-46fe-8183-8bbfd2487a2f.jpg)
 
 <p>🧰Tools used:</p>
 <p>🗹 Babel</p>
@@ -24,6 +23,6 @@
 > Note: this project is a *beta version* and is updated over time until an ultimate version is reached. In the near future, the project will be using an APi of 'real' Metaverse logs, houses, villas and more. Up to then, just pretend it is.
 Cheers !
 
-![alt text](https://pbs.twimg.com/media/FFTZpEiWUAMMZjq.jpg:large)
+
 
 
