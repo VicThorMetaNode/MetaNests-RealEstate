@@ -1,8 +1,8 @@
 # REAL-ESTATE WEBSITE DEMO
 - **NEXTJS** - **REACT** - **CHAKRAUI** - **RAPIDAPI**
 <p>DISCLAIMER: <em>This <b>MPA [Multi Pages Application]</b> project was featured in a client demonstration. This version serves as a demo and closely resembles the actual version, with the exception of the backend. The primary objective was to showcase my proficiency in fetching data from a database and presenting the outcomes in a responsive and refined design consistent with the brand's identity. This multi-page application centers around the rental and sale of luxury apartments and houses. Users have the ability to search based on various criteria to discover the ideal property for their needs. During its development, cutting-edge technologies were employed, some of which continue to have a significant impact as NextJS & ChackraUi.</em> </p>
-> **Deployed**: **May 2022** : https://meta-nests.vercel.app/
-<!-- ![Screenshot 2022-04-25 210159](https://user-images.githubusercontent.com/98230162/218258543-149506fe-39cc-46fe-8183-8bbfd2487a2f.jpg) -->
+> <p>**Deployed**: **May 2022** : https://meta-nests.vercel.app/</p>
+
 ![metanest](https://user-images.githubusercontent.com/98230162/218258661-150fb18c-a4e0-4272-88d5-05cfac54c0b2.PNG)
 
 
